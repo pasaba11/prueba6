@@ -11,3 +11,17 @@ git push -u origin main
 git remote add origin https://github.com/pasaba11/prueba6.git
 git branch -M main
 git push -u origin main
+Práctica repositorio 7
+Introducción
+
+Este proyecto nos permite práctica una vez más con los repositorios
+
+A quién va dirigido
+A todos los usuarios ue quieran aprender Git
+
+A tener en cuenta
+Repasar previamente:
+
+ Apuntes de clase
+ Vídeo de youtube
+ Cheat sheet
